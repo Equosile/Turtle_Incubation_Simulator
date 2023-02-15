@@ -22,6 +22,17 @@ The simulation from this model design has shown the promising probability where 
 The front-end is illustrated by the Python 3 Turtle library. Some Python development environments like Debian 11 (Bullseye) ought to additionally install python3-tk for the back-end processing of Python 3 Turtle.
 
 
+In order to try the simulator, the following command would be executed within proper Python development environments (e.g. Anaconda).
+
+
+<br>
+
+
+```
+$> python embryo-sync.py
+```
+
+
 ---
 
 
